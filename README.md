@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**LegendSpam/LegendSpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm LegendSpam !! 👋
+![LegendSpam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendSpam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendSpam&langs_count=8)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+ 
+I'm a full stack developer, YouTuber and ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+
+<!--[![portfolio](https://img.shields.io/badge/my_portfolio-1dcf57?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amritgiri01.com.np/)-->
+[![YouTube](https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://m.youtube.com/legendspam?sub_confirmation=1)
+[![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/LegendSpam/)
+
+
